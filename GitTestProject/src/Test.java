@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("수정");
 		///sdfsfefwefwefwe
 		System.out.println("수정");
+		System.out.println("test2");
+
 	}
 
 }
