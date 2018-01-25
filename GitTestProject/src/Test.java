@@ -9,6 +9,7 @@ public class Test {
 		///sdfsfefwefwefwe
 		System.out.println("¼öÁ¤");
 		System.out.println("test2");
+		System.out.println("test3");
 
 	}
 
